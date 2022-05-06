@@ -2,11 +2,19 @@
     border: dotted red;
 }
 
-.cardiconleft {
+.iconflexbox {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cardheader {
     display: flex;
 }
 
-.cardiconright {
-    align-content: right;
+.headertext {
+    width: 100rem;
 }
 
+img {
+    width: 100%;
+}
