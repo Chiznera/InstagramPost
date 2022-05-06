@@ -1,3 +1,12 @@
 * {
     border: dotted red;
 }
+
+.cardiconleft {
+    display: flex;
+}
+
+.cardiconright {
+    align-content: right;
+}
+
