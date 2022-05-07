@@ -1,5 +1,12 @@
-* {
+/* * {
     border: dotted red;
+} */
+body {
+    background-color: black;
+}
+
+.cardbody {
+    background-color: white;
 }
 
 .iconflexbox {
@@ -16,5 +23,5 @@
 }
 
 img {
-    width: 100%;
+    width: 10rem;
 }
